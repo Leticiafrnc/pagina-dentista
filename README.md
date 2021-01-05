@@ -10,8 +10,9 @@ O Projeto_08 foi desenvolvido para treinar minhas habilidades em HTML, CSS e Jav
 Esta Landing Page exibe uma maneira de mostrar seu trabalho, também pode ser adaptada a páginas de vendas. 
 - Funciona em todos os tipos de telas.
 - HTML
--CSS
--JavaScript
+- CSS
+- JavaScript
+
 ### Instalação 
 
 Clone este repositório usando git clone https://github.com/Leticiafrnc/Projeto_08.git ou clique em Code/Download ZIP.

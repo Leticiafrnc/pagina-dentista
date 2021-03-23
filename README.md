@@ -1,6 +1,6 @@
-### Projeto_08
+### Página Dentista
 
-O Projeto_08 foi desenvolvido para treinar minhas habilidades em HTML, CSS e JavaScript.
+A Página Dentista foi desenvolvida para treinar minhas habilidades em HTML, CSS e JavaScript.
 
 ![Screenshot](Projeto08.gif)
 
